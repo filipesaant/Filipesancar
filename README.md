@@ -1,3 +1,7 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Filipe</h1>
+
+
+
 - 🌱 Estudando JavaScript
 - 🤔 Em busca de ajuda para me tornar um DEV Front-End
 - 📫 Contato: filipe.sancar@gmail.com
