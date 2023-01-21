@@ -2,8 +2,8 @@
 
 
 
-- 👨🏻‍💻 Estudando Desenvolvimento web
-- 😁 Em busca de me tornar um DEV Front-End
+- 👨🏻‍💻 Estudando e aperfeiçoando!
+- ⌛️ Em busca de me tornar um DEV FullStacks
 - 📫 Contato: filipe.sancar@gmail.com
 
 <div align="center">
