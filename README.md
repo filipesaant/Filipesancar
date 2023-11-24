@@ -3,7 +3,7 @@
 
 
 - 👨🏻‍💻 Estudando e aperfeiçoando!
-- ⌛️ Em busca de me tornar um DEV FullStacks
+- ⌛️ Em busca de me tornar um Desenvolvedor Front-End
 - 📫 Contato: filipe.sancar@gmail.com
 
 <div align="center">
